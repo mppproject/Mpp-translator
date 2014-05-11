@@ -1,4 +1,4 @@
-Mpp-converter
+Mpp-Translator
 =============
 
-Mpp converter is a tool that allows you to convert C code to Mpp , or MPP code to C
+Mpp translator is a php script that helps to translate form C to Mpp || Mpp to C
