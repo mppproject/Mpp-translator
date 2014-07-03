@@ -1,8 +1,8 @@
 <?php
 /*
 *	
-*	MPP translator
-*	By Reda Souadi
+*	MPP translator;
+*	By Reda Souadi;
 *
 */
 
@@ -38,11 +38,11 @@ $b =  array('dir' => 'do' ,
 			'_7arf tabit_7' => 'const' ,
 			'war9a' => 'FILE' ,
 			'khawi' => 'void' ,
-			'ila' => 'if' ,
-			'oula' => 'else' ,
-			'_7awal' => 'switch' ,
+			'ila()' => 'if()' ,
+			'oula()' => 'else()' ,
+			'_7awal()' => 'switch()' ,
 			'mra' => 'case' ,
-			'_7ta' => 'while' ,
+			'_7ta()' => 'while()' ,
 			'ktab()' => 'printf()' ,
 			'_9ra()' => 'scanf()' ,
 			'wktab()' => 'fprintf()' ,
@@ -67,8 +67,8 @@ $y = array('do' => 'dir' ,
 			'const' => '_7arf tabit_7' ,
 			'FILE' => 'wr9a' ,
 			'void' => 'khawi' ,
-			'if' => 'ila' ,
-			'else' => 'oula' ,
+			'if()' => 'ila()' ,
+			'else()' => 'oula()' ,
 			'switch()' => '_7awal()' ,
 			'case' => 'mra' ,
 			'while()' => '_7ta()' ,
