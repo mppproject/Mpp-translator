@@ -113,7 +113,7 @@ if ($mpp=='') {
     	<link rel="stylesheet" type="text/css" href="css/style.css">
     	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
     	<link href="css/flat-ui.css" rel="stylesheet">
-    	<script src="js/jquery-1.8.3.min.js"></script>
+    	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     	<script src="js/script.js"></script>
 	</head>
 	<body>
